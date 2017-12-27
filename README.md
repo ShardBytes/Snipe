@@ -1,3 +1,3 @@
 # Snipe
 
-Just a collection of various useful snippets I use.
+Just a collection of various useful snippets.
