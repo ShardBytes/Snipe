@@ -1,4 +1,4 @@
-# Snipe
+# :ribbon: Snipe :ribbon:
 
 ## :large_blue_diamond: Just a collection of various useful snippets. :large_blue_diamond:
 
