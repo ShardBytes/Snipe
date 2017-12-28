@@ -7,7 +7,7 @@
 
 * **[ intellij ]** - Bunch of stuff for InteliJ IDEA ( colors, configs and stuff )
 
-  * **colorSchemeConfigs** - jars with color scheme settings ( use import settings )
+  * **[ colorSchemeConfigs ]** - jars with color scheme settings ( use import settings )
 
     * :heart_decoration: **Sebucula** :heart_decoration: - Seb's (Plasmoxy) color scheme for IntelliJ IDEA
       * **v1** - first color theme with pretty bad colors for Java
