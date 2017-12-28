@@ -13,5 +13,7 @@
       * **v1** - first color theme with pretty bad colors for Java
       * **v2** - fields and methods look now more pleasing, reconfigured to work with setting inheritance, configured Kotlin
 
+      ![](https://github.com/ShardBytes/Snipe/blob/master/intellij/colorSchemeConfigs/SebuTodoSections_v1_screenshot.png)
+
     * :eight_spoked_asterisk: **SebuTodoSections** :eight_spoked_asterisk: - jars with todo settings ( highlights stuff in comments )
       * **v1** - added SECTION (green), FIELDS(white) and METHODS(blue) comment highlighting (works same as //TODO) which are used to mark and divide the code so its easier to read
