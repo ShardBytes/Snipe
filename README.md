@@ -12,7 +12,7 @@
     * :heart_decoration: **Sebucula** :heart_decoration: - Seb's (Plasmoxy) color scheme for IntelliJ IDEA
       * **v1** - first color theme with pretty bad colors for Java
       * **v2** - fields and methods look now more pleasing, reconfigured to work with setting inheritance, configured Kotlin
-      * **v3 ** - completely reworked to have more blue in it, grabbed some inspiration from visual studio, works for Java and Kotlin
+      * **v3** - completely reworked to have more blue in it, grabbed some inspiration from visual studio, works for Java and Kotlin
 
     * :eight_spoked_asterisk: **SebuTodoSections** :eight_spoked_asterisk: - jars with todo settings ( highlights stuff in comments )
       * **v1** - added SECTION (green), FIELDS(white) and METHODS(blue) comment highlighting (works same as //TODO) which are used to mark and divide the code so its easier to read
